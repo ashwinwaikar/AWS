@@ -1,2 +1,2 @@
 # AWS
-ASW assignments and information
+AWS assignments and information
