@@ -1,41 +1,37 @@
-Linux Commands:
-===============
+**Linux Commands:**
 
-> -   Sudo su\
->     If u want to go to root user cmd is sudo means root
-> -   ls\
->     list directory
-> -   pwd\
->     print working directory\
->     [![](https://github.com/neha21598/AWS_Neha058/raw/master/Day3/Image/pwd1.png)](https://github.com/neha21598/AWS_Neha058/blob/master/Day3/Image/pwd1.png)
-> -   Cd\
->     change directory\
->     [![](https://github.com/neha21598/AWS_Neha058/raw/master/Day3/Image/cd1.png)](https://github.com/neha21598/AWS_Neha058/blob/master/Day3/Image/cd1.png)
-> -   clear\
->     To clear screen
-> -   Mkdir\
->     If you want to make 1 folder [![](https://github.com/neha21598/AWS_Neha058/raw/master/Day3/Image/mkdir1.png)](https://github.com/neha21598/AWS_Neha058/blob/master/Day3/Image/mkdir1.png)
-> -   Vi filename\
->     we can make the .txt file [![](https://github.com/neha21598/AWS_Neha058/raw/master/Day3/Image/vi1.png)](https://github.com/neha21598/AWS_Neha058/blob/master/Day3/Image/vi1.png)
-> -   i\
->     It shows insert
-> -   :w\
->     write in the file
-> -   :q\
->     quit exit from the current file
-> -   :wq\
->     write and quit is cmd to write as well as quit
-> -   :wq!\
->     Force to quit forcefully
-> -   Help cmdname\
->     gives all the info about commands
-> -   cp source destination\
->     Copies file from source to destination
-> -   mv source destination\
->     Moves file from source to destination
+1]Sudosu -\&gt;If u want to go to root user cmd is
 
-**ls,cd,pwd=navigation commands**
+sudo means root
 
--   i - insert mode
--   w - to save permanantely
--   :q - quit
+2]ls\&gt;list directory
+
+3)pwd-\&gt;print working directory
+
+4]Cd=change directory
+
+5]clear=To clear screen
+
+6]Mkdir=If you want to make 1 folder
+
+7]Vi filename=we can make the .txt file
+
+8]i -\&gt;It shows insert
+
+9]:w=write in the file
+
+10]:q= quit exit from the current file
+
+11]ls,cd,pwd=navigation commands
+
+12]1)i-insert mode
+
+2)w=to save permanently
+
+3):q=quit
+
+13]:wq=write and quit is cmd to write as well as quit
+
+14]:wq!=Force to quit forcefully
+
+15]Help cmdname-\&gt; gives all the info about commands
