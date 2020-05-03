@@ -75,4 +75,4 @@ What will happen bcz of that?
 So in this way cloud make easy for the security purpose.
 
 **Launch instance\&gt;**
-https://github.com/ashwinwaikar/AWS/issues/1#issue-611345784
+DAY2/images/1.png
