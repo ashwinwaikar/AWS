@@ -75,5 +75,4 @@ What will happen bcz of that?
 So in this way cloud make easy for the security purpose.
 
 **Launch instance\&gt;**
-
-![](RackMultipart20200503-4-1noek7j_html_35b31b8b1a111663.png)
+https://github.com/ashwinwaikar/AWS/issues/1#issue-611345784
