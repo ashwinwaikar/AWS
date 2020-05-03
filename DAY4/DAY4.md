@@ -8,14 +8,14 @@ For that,use a command:
  > If it is not installed, then follow below instructions:
  >  + Enter following command in your linux terminal:\
 **yum group install 'Development tools'**
->  ![](Image/2.png) 
+>  ![](Images/2.png) 
 
 >    + Now, enter **Y** and hit enter\
->  ![](Image/3.png) 
+>  ![](Images/3.png) 
 
 >    + To check whether g++ tool install successfully or not  enter following command\
 **g++ --version**\
->  ![](Image/4.png)
+>  ![](Images/4.png)
 
 ## Make a directory:
 
@@ -28,13 +28,13 @@ Which will list all files and directory of current working directory
 > + Now change current path to cpp_programs by using following command\
 **cd cpp_programs**
 
-> ![](Image/5.png)
+> ![](Images/5.png)
 
 ## How to compile cpp code in Linux Terminal?:
 
 > + First create cpp file using vi tool by using following command\
 **vi hello.cpp**
->  ![](Image/6.png)
+>  ![](Images/6.png)
 
 > + Then enter **i** to enter in insert mode
 > + Now write you cpp code
@@ -49,4 +49,4 @@ Which will list all files and directory of current working directory
 ## How to Run cpp code in Linux Terminal?:
 > + Now Execute your output file using following command\
 **./hello**\
->  ![](Image/7.png)
+>  ![](Images/7.png)
