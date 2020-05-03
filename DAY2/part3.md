@@ -76,4 +76,4 @@ So in this way cloud make easy for the security purpose.
 
 **Launch instance\&gt;**
 
-https://github.com/ashwinwaikar/AWS/blob/Assignments/DAY2/images/1.png
+[![](https://github.com/ashwinwaikar/AWS/blob/Assignments/DAY2/images/1.png)]
