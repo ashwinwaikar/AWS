@@ -40,42 +40,42 @@ Hybrid cloud is the combination of a private and public cloud, providing for mor
 
 Cloud computing offers plenty of benefits. The top 10 are as follows:
 
-1. **Instant scalability:**
+ **Instant scalability:**
 
 Cloud computing enables immediate scalability of infrastructure capacity depending on the business need. It is like having an unlimited IT resource, which can be scaled up and/ or down to meet user demands
 
-1. **Anywhere accessibility:**
+ **Anywhere accessibility:**
 
 A lot of factors have enabled globalization, and a key one is technology and high-speed internet connectivity. Cloud empowers enterprises to deploy their applications across the globe so they can service their customers at a fraction of the cost of a traditional brick-and-motor businesses. Due to lower latency, customers around the world get an identical digital experience while using the applications
 
-1. **Increased speed and operational agility:**
+ **Increased speed and operational agility:**
 
 Today, to cope with competition, businesses must have the ability to instantly scale their cloud capacity by accessing bandwidth demands from remote servers of a particular cloud service provider. If the business demand is more, the enterprise can turn up its computing capacity and IT resources availability with the click of a button. Such an ability improves organizational agility, productivity and efficiency making scope to experiment with new ideas and thereby, offering competitive advantage and the ability for the organization of any size to disrupt the market
 
-1. **Reduced expenditure:**
+ **Reduced expenditure:**
 
 With the cloud, enterprises can focus on building their business rather than investing in hardware infrastructure and data centers that either remain idle, or underutilized. Cloud costs, however, depend on the consumption -- a variable expense
 
-1. **Automatic updates/ patches:**
+ **Automatic updates/ patches:**
 
 When enterprises deal with several different kinds of software, operating systems, and applications from various vendors for their everyday operations, they have to have software and security updates rolled out from time to time. This is a very time-consuming process and the downtime for system maintenance means loss of productivity. A cloud service provider or a managed service provider can take care of these automatically, saving time and manual effort on maintenance.
 
-1. **Disaster recovery:**
+ **Disaster recovery:**
 
 The world is going digital, making robust backup and disaster recovery crucial for business of all sizes. However, on-premises investments for disaster recovery are things of the past today. Especially since cloud computing helps both large corporations and small enterprises save time and effort involved in this exercise
 
-1. **High security:**
+ **High security:**
 
 Protecting sensitive, personally identifiable and/ or financial information is a considerable challenge for CIOs. Advanced cloud security features, however, have reduced the risks of information loss and cyber stealth
 
-1. **Reduced carbon footprint:**
+ **Reduced carbon footprint:**
 
 Last, but not the least, cloud infrastructure significantly reduces power, IT infrastructure, and resource consumption by offering resources as per demand, thereby reducing e-waste and adverse impact on the environmental
 
-1. **Flexibility**** :**
+ **Flexibility**** :**
 
 From closed cabins to bringing your internet-enabled devices to work, irrespective of the device type and/ or global location, cloud offers vast flexibility and empowerment to businesses as well as to their employees
 
-1. **Enterprise collaboration:**
+ **Enterprise collaboration:**
 
 Company information no longer exists in silos (except confidential ones, of course). Centralized documentation control on cloud-based, file-sharing and social communication apps (like Slack, Yammer, etc) offers transparency and visibility into work processes, streamlining information flow and enabling better collaboration between teams, departments and employees seated in different time zones -- all of which leads to improved productivity and bottom line.
